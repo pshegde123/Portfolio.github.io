@@ -35,3 +35,5 @@ Click [here](https://pshegde123.github.io/Portfolio.github.io/) to view the Gith
 (12) [Eat-Da-Burger](https://github.com/pshegde123/burger):MySQL, Node, Express, Handlebars, and ORM based app to list burgers devoured by user
 
 (13) [Sequelize Burger](https://github.com/pshegde123/sequelizedBurger):App using NodeJs/Express,Handlebars and Sequelize to list burgers devoured by the user.
+
+(14) [Hounted House Locator](https://github.com/pshegde123/gt-project2-group4): An app using NodeJS,Sequelize and Google Maps API to locate hounted houses in Georgia.
