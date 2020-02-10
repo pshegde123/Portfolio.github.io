@@ -37,3 +37,9 @@ Click [here](https://pshegde123.github.io/Portfolio.github.io/) to view the Gith
 (13) [Sequelize Burger](https://github.com/pshegde123/sequelizedBurger):App using NodeJs/Express,Handlebars and Sequelize to list burgers devoured by the user.
 
 (14) [Hounted House Locator](https://github.com/pshegde123/gt-project2-group4): An app using NodeJS,Sequelize and Google Maps API to locate hounted houses in Georgia.
+
+(15) [Mongo Web Scraper](https://github.com/pshegde123/web-scrapper): News scraper using NodeJS and MongoDB
+
+(16) [React Clicky Game](https://github.com/pshegde123/ReactClickyGame): React based image clicking game.
+
+(17) [Arcade Central](https://github.com/pshegde123/project-3): React based video game collection.
