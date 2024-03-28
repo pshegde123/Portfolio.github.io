@@ -5,6 +5,8 @@ Click [here](https://pshegde123.github.io/Portfolio.github.io/) to view the Gith
 
 ### Techologies Used
 ---
+* `React JS`
+* `Tailwind CSS`
 * `Bootstrap`
 * `HTML` & `CSS` 
 
