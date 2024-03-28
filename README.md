@@ -45,3 +45,15 @@ Click [here](https://pshegde123.github.io/Portfolio.github.io/) to view the Gith
 (16) [React Clicky Game](https://github.com/pshegde123/ReactClickyGame): React based image clicking game.
 
 (17) [Arcade Central](https://github.com/pshegde123/project-3): React based video game collection.
+
+### Coding Challenge Solutions
+---
+(1) [Days Of Code 2023](https://github.com/pshegde123/wwcode-days-of-code-challenge-2024) : Javascript 30 days challenge solutions repo.
+
+(2) [QR Code Scanner](https://pshegde123.github.io/qrcode_scanner/qr-code-component-main/src/index.html) : Frontend Mentor Coding challenge solution. Responsive web page using HTML and Bootstrap CSS.
+
+(3) [Social Links Profile](https://pshegde123.github.io/SocialLinksProfile/) : Frontend Mentor Coding challenge solution. Responsive web page using HTML and Bootstrap CSS.
+
+(4) [Result Summary Component](https://pshegde123.github.io/SocialLinksProfile/) : Frontend Mentor Coding challenge solution. Responsive web page using HTML and Bootstrap CSS.
+
+(5) [Newsletter Subscription Component](https://pshegde123.github.io/subscription_page/) : Frontend Mentor Coding challenge solution. Responsive web page using React JS and Tailwind CSS.
