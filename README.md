@@ -1,6 +1,6 @@
 # Portfolio
 ---
-This is a responsive, single page portfolio containing projects done as a course-work for Georgia Tech Coding Bootcamp. 
+This is a responsive, single page portfolio containing projects done as a course-work for Georgia Tech Coding Bootcamp and some personal projects.
 Click [here](https://pshegde123.github.io/Portfolio.github.io/) to view the Github Page.
 
 ### Techologies Used
